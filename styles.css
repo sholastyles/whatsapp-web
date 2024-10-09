@@ -99,3 +99,7 @@ hr{
     font-size: 1.2em;
 
 }
+button a{
+ color: white;
+ text-decoration: none;
+}
